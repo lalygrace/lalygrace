@@ -9,7 +9,7 @@
   <a href="https://lelisamerga.me"><img src="https://img.shields.io/badge/Portfolio-lelisamerga.me-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>&nbsp;
   <a href="https://linkedin.com/in/laly-grace"><img src="https://img.shields.io/badge/LinkedIn-laly--grace-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="mailto:lalygrace.merga@gmail.com"><img src="https://img.shields.io/badge/Email-lalygrace.merga-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-  <a href="https://lelisamerga.me/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
+  <a href="https://www.lelisamerga.me/assets/LELISA_MERGA_RESUME.pdf"><img src="https://img.shields.io/badge/Resume-PDF-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
