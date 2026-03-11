@@ -18,7 +18,7 @@
 
 I build web and mobile applications with a focus on clean architecture, performance, and great user experience. I work across the full stack — from designing responsive front-ends with **React** and **Next.js** to building scalable APIs with **NestJS** and **Express**, and shipping cross-platform mobile apps with **React Native + Expo**.
 
-Currently exploring **Docker** and **Kubernetes** to strengthen my DevOps workflow.
+Currently expanding my DevOps expertise by learning Kubernetes orchestration, building on my hands-on experience with Docker, and exploring CI/CD automation and cloud infrastructure.
 
 ---
 
