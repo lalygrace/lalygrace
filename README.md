@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Full-Stack Developer · Mobile App Engineer · Open-Source Enthusiast</strong><br/>
-  Oromia, Ethiopia
+  Shaggar City, Ethiopia
 </p>
 
 <p align="center">
